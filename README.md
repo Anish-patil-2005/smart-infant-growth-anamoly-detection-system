@@ -60,7 +60,7 @@ A React-based SPA built with [Next.js](https://nextjs.org/) and styled using [Ta
 ```
 ui/
 ├── components/      # Reusable UI components (Cards, Modals, Forms)
-├── pages/           # Next.js pages (index, login, register, dashboard)
+├── pages/           #  pages (index, login, register, dashboard)
 ├── public/          # Static assets and screenshots
 ├── styles/          # Global and Tailwind config
 └── utils/           # API client, hooks, context providers
