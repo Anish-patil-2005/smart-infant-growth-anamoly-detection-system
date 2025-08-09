@@ -162,5 +162,5 @@ All routes are prefixed with `/api` and require a Bearer token unless noted.
 ## 📎 Repository
 
 ```bash
-git clone https://github.com/yourusername/smart-growth-tracker.git
+git clone https://github.com/Anish-patil-2005/smart-growth-tracker.git
 ```
